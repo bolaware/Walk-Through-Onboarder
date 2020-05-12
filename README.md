@@ -29,7 +29,7 @@ Run the project's app and [Check out the way I used it in the my app's MainActiv
 	}
 
 ### Initiate
-You can checkout the sample app in the project, initiating Momentz is as simple as this:
+You can checkout the sample app in the project, initiating Onboarder is as simple as this:
 
     WalkThroughDialog(
             this@MainActivity,
