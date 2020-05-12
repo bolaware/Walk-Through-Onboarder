@@ -6,7 +6,7 @@ Walk Through Onboarder is an android library that helps your users onboard by wa
 
 The library is based on anchoring of onboarding process around views(`ImageView`, `VideoView`, `ViewGroups` etc) in yout applications.
 
-### Adding it to your project
+### Demo
 <img src="onboarder_recording.gif" alt="Walk Through Onboarder library demo step by step" width="200" height="400">
 
 Run the project's app and [Check out the way I used it in the my app's MainActivity](https://github.com/bolaware/Walk-Through-Onboarder/blob/master/app/src/main/java/com/bolaware/walkthroughguider/MainActivity.kt)
